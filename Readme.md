@@ -1,0 +1,1 @@
+This repository is for my personal exercises studying Go language.
